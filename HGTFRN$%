@@ -1,12 +1,6 @@
 HBFR = {
     ["fadc01b1-17e9-459a-b113-9a4aa1059315"] = "BL",
-    ["c51042b7-3faf-4618-a858-66b5aad0bc32"] = "WL",
-    ["3542c095-cb5d-4ea6-bd10-733361a03032"] = "WL",
-    ["4400b1e4-d476-46cb-b28f-44de82300f2c"] = "WL",
-    ["d9d77559-c1f7-44ea-a2af-335405fe7a3a"] = "WL",
-    ["8c56b45b-2835-4904-bf83-9de36ab9fbe9"] = "WL",
-    ["d79e6892-920c-4f88-a104-6c1d1cc4a5c5"] = "WL",
-    ["3f661198-ccd2-4f3e-b254-72aebd1768d2"] = "WL",
-    ["c7a22ef0-0b29-4e5a-9f0d-0acc0d31d8c4"] = "WL",
-    ["337a76be-00ad-4f3b-be62-2f922dfb15de"] = "WL",
+    ["57c46bdc2f3fa45139c749c6b7b5118e5f07bc0ab8064f33f60d4087aa6f9dac"] = "WL",
+    ["7b46556931efa77a75ec5c49375b92336208884385dfa306d6a843a363a127df"] = "WL",
+
 }
